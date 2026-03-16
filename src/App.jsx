@@ -19,6 +19,9 @@ function App() {
       
       <Navbar menuOPen={menuOPen} setMenuOpen={setMenuOpen} />
       <MobileMenu menuOPen={menuOPen} setMenuOpen={setMenuOpen} />
+
+      /* Main content goes here */
+      
       
     </div>
      
